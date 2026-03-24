@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**esha-gattineni/esha-gattineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║          hi, I'm Esha  — I build systems that think.         ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a software engineer based in **Phoenix, AZ** who likes working at the intersection of distributed systems and applied AI — specifically the part where things have to actually work at scale.
+
+My projects tend to cluster around two ideas: **moving data fast** (Kafka, streaming, real-time APIs) and **making AI systems smarter about what they cost** (routing, orchestration, observability).
+
+---
+
+### what I'm building
+
+| project | what it does |
+|---|---|
+| [**LLM-orchestration-router**](https://github.com/esha-gattineni/LLM-orchestration-router) | Routes requests between GPT-4 and Claude based on complexity score, latency budget, and token cost. ~25% cost reduction at 500+ req/min. |
+| [**Anomaly-Detection-Streaming**](https://github.com/esha-gattineni/Anomaly-Detection-Streaming) | Simulates streaming logs → Kafka → Scikit-learn anomaly flagging in near real-time. |
+| [**Distributed-Cloud-Resource-Inventory**](https://github.com/esha-gattineni/Distributed-Cloud-Resource-Inventory-Query-Service) | Query service for distributed cloud resource inventory — designed for scale and consistency. |
+| [**Signals & Real-Time Moments API**](https://github.com/esha-gattineni/Signals-Modeling-Real-Time-Moments-API) | Event-driven API for modeling real-time behavioral signals. |
+| [**E-Commerce with Caching**](https://github.com/esha-gattineni/E-Commerce-with-caching) | E-commerce backend with caching layer for performance. |
+
+---
+
+### tools I reach for
+
+```python
+stack = {
+    "languages"  : ["Python", "SQL"],
+    "ai / ml"    : ["LangChain", "OpenAI", "Anthropic", "Scikit-learn"],
+    "infra"      : ["Azure Functions", "API Management", "Application Insights"],
+    "data"       : ["Kafka", "PySpark", "Redis"],
+    "frameworks" : ["FastAPI", "Pydantic"],
+    "practices"  : ["distributed systems", "event-driven architecture",
+                    "observability", "cost-aware design"],
+}
+```
+
+---
+
+### how I think about engineering
+
+Most interesting problems in production aren't purely technical — they're about **tradeoffs**: speed vs. cost, consistency vs. availability, simplicity vs. capability. I try to make those tradeoffs explicit and measurable rather than guessing.
+
+That's why the projects I'm most proud of have things like routing overhead metrics, fallback logic, and cost-per-request tracking built in from the start — not bolted on later.
+
+---
+
+<div align="center">
+
+📍 Phoenix, AZ &nbsp;·&nbsp; 🔧 open to interesting problems
+
+</div>
