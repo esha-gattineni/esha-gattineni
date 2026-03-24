@@ -1,18 +1,19 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║          hi, I'm Esha  — I build systems that think.         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Hi, I'm Esha. I build backends that scale and AI that      ║
+║   knows what it costs.                                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-I'm a software engineer based in **Phoenix, AZ** who likes working at the intersection of distributed systems and applied AI — specifically the part where things have to actually work at scale.
+I'm a software engineer who likes working at the intersection of distributed systems and applied AI, specifically the part where things have to actually work at scale.
 
 My projects tend to cluster around two ideas: **moving data fast** (Kafka, streaming, real-time APIs) and **making AI systems smarter about what they cost** (routing, orchestration, observability).
 
@@ -34,13 +35,18 @@ My projects tend to cluster around two ideas: **moving data fast** (Kafka, strea
 
 ```python
 stack = {
-    "languages"  : ["Python", "SQL"],
-    "ai / ml"    : ["LangChain", "OpenAI", "Anthropic", "Scikit-learn"],
-    "infra"      : ["Azure Functions", "API Management", "Application Insights"],
-    "data"       : ["Kafka", "PySpark", "Redis"],
-    "frameworks" : ["FastAPI", "Pydantic"],
-    "practices"  : ["distributed systems", "event-driven architecture",
-                    "observability", "cost-aware design"],
+    "languages"   : ["Python", "Java", "JavaScript", "SQL", "C", "C#"],
+    "backend"     : ["FastAPI", "Spring Boot", "Node.js", "REST APIs"],
+    "databases"   : ["PostgreSQL", "MySQL", "MongoDB", "DynamoDB", "Redis"],
+    "cloud"       : ["Azure (AKS, Log Analytics)", "AWS", "Docker",
+                     "Kubernetes", "CI/CD", "GitHub Actions"],
+    "observability": ["Prometheus", "Grafana", "Azure Log Analytics"],
+    "ml / genai"  : ["LangChain", "LlamaIndex", "OpenAI API", "Claude API",
+                     "Hugging Face", "PyTorch", "TensorFlow",
+                     "Fine-tuning (LoRA/QLoRA)", "RAG", "RAGAS",
+                     "BM25", "Dense Embeddings", "Cross-Encoder Re-ranking",
+                     "Chroma", "Pinecone"],
+}
 }
 ```
 
@@ -48,14 +54,14 @@ stack = {
 
 ### how I think about engineering
 
-Most interesting problems in production aren't purely technical — they're about **tradeoffs**: speed vs. cost, consistency vs. availability, simplicity vs. capability. I try to make those tradeoffs explicit and measurable rather than guessing.
+Most interesting problems in production aren't purely technical. They're about **tradeoffs**: speed vs. cost, consistency vs. availability, simplicity vs. capability. I try to make those tradeoffs explicit and measurable rather than guessing.
 
-That's why the projects I'm most proud of have things like routing overhead metrics, fallback logic, and cost-per-request tracking built in from the start — not bolted on later.
+That's why the projects I'm most proud of have things like routing overhead metrics, fallback logic, and cost-per-request tracking built in from the start but not bolted on later.
 
 ---
 
 <div align="center">
 
-📍 Phoenix, AZ &nbsp;·&nbsp; 🔧 open to interesting problems
+📍 Seattle, WA &nbsp;·&nbsp; 🔧 open to interesting problems
 
 </div>
