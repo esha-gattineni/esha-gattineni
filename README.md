@@ -25,7 +25,7 @@ My projects tend to cluster around two ideas: **moving data fast** (Kafka, strea
 |---|---|
 | [**LLM-orchestration-router**](https://github.com/esha-gattineni/LLM-orchestration-router) | Routes requests between GPT-4 and Claude based on complexity score, latency budget, and token cost. ~25% cost reduction at 500+ req/min. |
 | [**Anomaly-Detection-Streaming**](https://github.com/esha-gattineni/Anomaly-Detection-Streaming) | Simulates streaming logs → Kafka → Scikit-learn anomaly flagging in near real-time. |
-| [**Distributed-Cloud-Resource-Inventory**](https://github.com/esha-gattineni/Distributed-Cloud-Resource-Inventory-Query-Service) | Query service for distributed cloud resource inventory — designed for scale and consistency. |
+| [**User-Engagement-Prediction-Platform**](https://github.com/esha-gattineni/user-engagement-ml-platform) | Query service for distributed cloud resource inventory — designed for scale and consistency. |
 
 
 ---
