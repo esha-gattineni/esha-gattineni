@@ -25,7 +25,7 @@ My projects tend to cluster around two ideas: **moving data fast** (Kafka, strea
 |---|---|
 | [**LLM-orchestration-router**](https://github.com/esha-gattineni/LLM-orchestration-router) | Routes requests between GPT-4 and Claude based on complexity score, latency budget, and token cost. ~25% cost reduction at 500+ req/min. |
 | [**Anomaly-Detection-Streaming**](https://github.com/esha-gattineni/Anomaly-Detection-Streaming) | Simulates streaming logs → Kafka → Scikit-learn anomaly flagging in near real-time. |
-| [**User-Engagement-Prediction-Platform**](https://github.com/esha-gattineni/user-engagement-ml-platform) | Predicts user engagement from 1M+ interaction records using contextual, content & leakage-safe historical CTR features |
+| [**Financial-Offer-Ranking-Platform**](https://github.com/esha-gattineni/Financial-Offer-Ranking-Engagement-Platform)) | Predicts user engagement from 1M+ interaction records using contextual, content & leakage-safe historical CTR features |
 
 
 ---
@@ -61,6 +61,6 @@ That's why the projects I'm most proud of have things like routing overhead metr
 
 <div align="center">
 
-📍 Seattle, WA &nbsp;·&nbsp; 🔧 open to interesting problems
+📍 San Francisco, WA &nbsp;·&nbsp; 🔧 open to interesting problems
 
 </div>
