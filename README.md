@@ -61,6 +61,6 @@ That's why the projects I'm most proud of have things like routing overhead metr
 
 <div align="center">
 
-📍 San Francisco, WA &nbsp;·&nbsp; 🔧 open to interesting problems
+📍 San Francisco, CA &nbsp;·&nbsp; 🔧 open to interesting problems
 
 </div>
